@@ -1,1 +1,1 @@
-Slides for the Web Accessibility Talk at JMI LUG, August 23rd 2014
+Slides for talk in my Isotope Geology Class
